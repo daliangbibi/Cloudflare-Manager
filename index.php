@@ -309,7 +309,7 @@ $isLogin = isset($_SESSION['is_login']) && $_SESSION['is_login'];
     </div>
     <div>
         💻 GitHub 项目地址：
-        <a href="https://github.com/daliangbibi/WhyHere" target="_blank" style="color: #007bff; text-decoration: none;">
+        <a href="https://github.com/daliangbibi/Cloudflare-Manager/" target="_blank" style="color: #007bff; text-decoration: none;">
             https://github.com/daliangbibi/WhyHere
         </a>
     </div>
