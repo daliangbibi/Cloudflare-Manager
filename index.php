@@ -301,5 +301,19 @@ $isLogin = isset($_SESSION['is_login']) && $_SESSION['is_login'];
         </script>
     <?php endif; ?>
 </div>
+
+<!-- 页面底部 -->
+<footer style="margin-top: 40px; padding: 15px; text-align: center; font-size: 14px; color: #666; background-color: #f8f9fa; border-top: 1px solid #e9ecef;">
+    <div style="margin-bottom: 5px;">
+        🚀 喵服务：<a href="https://喵.wang" target="_blank" style="color: #007bff; text-decoration: none;">喵.wang</a>
+    </div>
+    <div>
+        💻 GitHub 项目地址：
+        <a href="https://github.com/daliangbibi/WhyHere" target="_blank" style="color: #007bff; text-decoration: none;">
+            https://github.com/daliangbibi/WhyHere
+        </a>
+    </div>
+</footer>
+
 </body>
 </html>
